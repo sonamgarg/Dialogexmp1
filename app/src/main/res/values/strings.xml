@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Dialogexmp1</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="google_map_key">AIzaSyCN1_gd9Cm-9i3VlIaXv_XjYUXyvilubW0</string>
+    <string name="title_activity_tabbed_1">TabbedActivity_1</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_activity_main">MainActivity</string>
+</resources>
